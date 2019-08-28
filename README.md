@@ -62,7 +62,8 @@
     https://www.youtube.com/watch?v=wgdBVIX9ifA&t=38s <br>
     https://www.youtube.com/watch?v=X0tjziAQfNQ
     
-- Reactive Systems
+- Reactive Systems <br>
+    ### https://www.reactivemanifesto.org/
 
 ## Cloud Native
 
